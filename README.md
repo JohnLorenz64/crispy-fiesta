@@ -9,6 +9,7 @@
 8/26/2025
 - New version (now .pyw instead of .py)
 - Changed so that the command window is not seen when using the application
+- iRacingFuelIcon.ico is the icon I use for the app shortcut
 
 
 ### How to:
