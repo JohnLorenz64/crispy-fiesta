@@ -6,6 +6,9 @@
 - v1 Fully working (as far as I know)
 - Updated drop down to add selection option between time and lap races
 
+8/26/2025
+- New version (now .pyw instead of .py)
+- Changed so that the command window is not seen when using the application
 
 
 ### How to:
